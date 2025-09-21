@@ -1,0 +1,84 @@
+/* General Body Styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background: #f9f9f9;
+  color: #333;
+}
+
+/* Section and Footer Spacing */
+header, section, footer {
+  margin-bottom: 30px;
+}
+
+/* Headings */
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #222;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+  color: #333;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 6px;
+  color: #444;
+}
+
+h4 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 4px;
+  color: #555;
+}
+
+h5 {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 2px;
+  color: #666;
+}
+
+/* Paragraphs */
+p {
+  margin-bottom: 10px;
+}
+
+/* Lists */
+ul {
+  list-style: disc inside;
+  margin-bottom: 15px;
+}
+
+/* Job Section Styling */
+.job {
+  margin-bottom: 15px;
+}
+
+/* Links */
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Optional: small section separator */
+section {
+  padding-top: 10px;
+}
